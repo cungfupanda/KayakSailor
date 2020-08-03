@@ -1,0 +1,13 @@
+{
+	"push_link": "",
+    "url": "https://www.somewebpage.com",
+	"sender_email": "sender@gmail.com",
+	"sender_password": "password",
+    "receiver_emails": ["receiver@gmail.com"],
+    "email_contents": [
+        {
+            "subject": "This is the subject of email",
+            "body": "Email body content"
+        }
+    ]
+}
